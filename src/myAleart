@@ -1,0 +1,5 @@
+const myAleart = () => {
+    alert(hello)
+}
+
+export default myAleart
